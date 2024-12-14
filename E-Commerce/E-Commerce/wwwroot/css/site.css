@@ -1,0 +1,435 @@
+
+html {
+    font-size: 14px;
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+ 
+h1 {
+    color: #333;
+}
+ 
+.btn {
+    transition: background-color 0.3s, transform 0.3s ease;
+}
+
+    .btn:focus,
+    .btn:active:focus,
+    .btn-link.nav-link:focus,
+    .form-control:focus,
+    .form-check-input:focus {
+        box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    }
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+#load-more {
+    font-size: 1rem;
+    transition: background-color 0.3s, transform 0.3s ease;
+}
+
+    #load-more:hover {
+        background-color: #0056b3;
+        transform: translateY(-3px);
+    }
+
+.btn-outline-secondary:hover {
+    background-color: #f8f9fa;
+    color: #007bff;
+}
+
+ 
+.container {
+    max-width: 1200px;
+}
+
+
+.card,
+.product-card .card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1) !important;
+    border-radius: 4px;
+}
+
+    .card:hover,
+    .product-card .card:hover {
+        transform: scale(1.05);
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2) ; 
+    }
+
+.card-img-top {
+    border-bottom: 2px solid #f8f9fa;
+    object-fit: cover; 
+}
+
+ 
+ul.list-unstyled i {
+    margin-right: 8px;
+}
+
+/*.main-banner {
+    border-bottom: 3px dotted #eee;
+    padding-top: 0px !important;
+    padding-bottom: 30px;
+}
+
+
+    .main-banner .left-content .thumb img {
+        width: 100%;
+        overflow: hidden;
+    }
+
+    .main-banner .left-content .inner-content {
+        position: absolute;
+        left: 100px;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+        .main-banner .left-content .inner-content h4 {
+            color: white;
+            margin-top: -10px;
+            font-size: 52px;
+            font-weight: 700;
+            margin-bottom: 20px;
+        }
+
+        .main-banner .left-content .inner-content span {
+            font-size: 16px;
+            color: #fff;
+            font-weight: 400;
+            font-style: italic;
+            display: block;
+            margin-bottom: 30px;
+        }
+        .main-banner .left-content .inner-content a {
+            color: white;
+            font-size: 1.5rem;
+            background-color: #088178;
+            text-decoration: none;
+            border-radius: 8px;
+        }
+            .main-banner .left-content .inner-content a:hover {
+                background-color: #26d089;
+            }
+            .main-banner .right-content .right-first-image {
+                margin-bottom: 28.5px;
+            }
+
+        .main-banner .right-content .right-first-image .thumb {
+            position: relative;
+            text-align: center;
+        }
+
+            .main-banner .right-content .right-first-image .thumb img {
+                width: 100%;
+                overflow: hidden;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .inner-content {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 100%;
+                text-align: center;
+            }
+
+                .main-banner .right-content .right-first-image .thumb .inner-content h4 {
+                    color: #fff;
+                    font-size: 24px;
+                    font-weight: 700;
+                    margin-bottom: 15px;
+                }
+
+                .main-banner .right-content .right-first-image .thumb .inner-content span {
+                    font-size: 16px;
+                    color: #fff;
+                    font-style: italic;
+                }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content {
+                position: absolute;
+                top: 15px;
+                right: 15px;
+                left: 15px;
+                bottom: 15px;
+                text-align: center;
+                background-color: rgba(42,42,42,.97);
+                opacity: 0;
+                visibility: hidden;
+                transition: all 0.5s;
+            }
+
+            .main-banner .right-content .right-first-image .thumb:hover .hover-content {
+                opacity: 1;
+                visibility: visible;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content .inner {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content h4 {
+                color: #fff;
+                font-size: 24px;
+                font-weight: 700;
+                margin-bottom: 15px;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content p {
+                color: #fff;
+                padding: 0px 20px;
+                margin-bottom: 20px;
+            }
+*/
+.main-banner {
+    border-bottom: 3px dotted #ddd;
+    padding-top: 0 !important;
+    padding-bottom: 30px;
+    background-color: #f9f9f9;
+}
+
+    /* Left Content */
+    .main-banner .left-content .thumb img {
+        width: 100%;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+
+    .main-banner .left-content .inner-content {
+        position: absolute;
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        padding: 20px;
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 10px;
+    }
+
+        .main-banner .left-content .inner-content h4 {
+            color: #fff;
+            margin: 0;
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            line-height: 1.2;
+        }
+
+        .main-banner .left-content .inner-content span {
+            font-size: 18px;
+            color: #ddd;
+            font-weight: 400;
+            font-style: italic;
+            display: block;
+            margin-bottom: 25px;
+        }
+
+        .main-banner .left-content .inner-content a {
+            color: #fff;
+            font-size: 1.5rem;
+            background-color: #088178;
+            text-decoration: none;
+            border-radius: 8px;
+            padding: 10px 20px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+
+            .main-banner .left-content .inner-content a:hover {
+                background-color: #26d089;
+                transform: scale(1.05);
+            }
+
+    /* Right Content */
+    .main-banner .right-content .right-first-image {
+        margin-bottom: 30px;
+    }
+
+        .main-banner .right-content .right-first-image .thumb {
+            position: relative;
+            text-align: center;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s;
+        }
+
+            .main-banner .right-content .right-first-image .thumb img {
+                width: 100%;
+                object-fit: cover;
+                border-radius: 10px;
+                transition: transform 0.3s;
+            }
+
+            .main-banner .right-content .right-first-image .thumb:hover {
+                transform: translateY(-5px);
+            }
+
+            .main-banner .right-content .right-first-image .thumb .inner-content {
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                width: 100%;
+                text-align: center;
+            }
+
+                .main-banner .right-content .right-first-image .thumb .inner-content h4 {
+                    color: #fff;
+                    font-size: 24px;
+                    font-weight: 700;
+                    margin-bottom: 10px;
+                }
+
+                .main-banner .right-content .right-first-image .thumb .inner-content span {
+                    font-size: 16px;
+                    color: #ddd;
+                    font-style: italic;
+                }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                left: 10px;
+                bottom: 10px;
+                text-align: center;
+                background-color: rgba(0, 0, 0, 0.85);
+                opacity: 0;
+                visibility: hidden;
+                transition: all 0.5s ease;
+                border-radius: 10px;
+            }
+
+            .main-banner .right-content .right-first-image .thumb:hover .hover-content {
+                opacity: 1;
+                visibility: visible;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content .inner {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+                padding: 0 15px;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content h4 {
+                color: #fff;
+                font-size: 22px;
+                font-weight: 700;
+                margin-bottom: 10px;
+            }
+
+            .main-banner .right-content .right-first-image .thumb .hover-content p {
+                color: #ccc;
+                padding: 0 20px;
+                margin-bottom: 15px;
+                font-size: 14px;
+                line-height: 1.5;
+            }
+
+  
+@media (max-width: 768px) {
+    .main-banner .left-content .inner-content {
+        left: 5%;
+        width: 90%;
+    }
+
+        .main-banner .left-content .inner-content h4 {
+            font-size: 36px;
+        }
+
+        .main-banner .left-content .inner-content span {
+            font-size: 16px;
+        }
+
+        .main-banner .left-content .inner-content a {
+            font-size: 1.2rem;
+        }
+}
+
+@media (max-width: 1200px) {
+    #product1 .col-lg-3 {
+        flex: 0 0 30% !important;
+    }
+}
+
+/*vcxcvsd////////////////////////////////////*/
+/* Style for the carousel container */
+/* Style for the carousel container */
+#carouselExample {
+    max-width: 800px; /* Set a fixed width */
+    max-height: 400px; /* Set a fixed height */
+    margin: 50px auto;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: relative;
+}
+
+    /* Ensuring the images fit within the carousel dimensions */
+    #carouselExample .carousel-inner img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Ensures images fill the space without distortion */
+    }
+
+    /* Carousel indicators */
+    #carouselExample .carousel-indicators [data-bs-target] {
+        background-color: #007bff;
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        margin: 0 5px;
+        transition: transform 0.2s ease;
+    }
+
+        #carouselExample .carousel-indicators [data-bs-target].active {
+            transform: scale(1.3);
+            background-color: #0056b3;
+        }
+
+    /* Carousel navigation buttons */
+    #carouselExample .carousel-control-prev-icon,
+    #carouselExample .carousel-control-next-icon {
+        background-color: rgba(0, 0, 0, 0.5);
+        border-radius: 50%;
+        padding: 10px;
+    }
+
+        #carouselExample .carousel-control-prev-icon:hover,
+        #carouselExample .carousel-control-next-icon:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+
+    /* Add transition for smooth sliding effect */
+    #carouselExample .carousel-inner {
+        transition: transform 0.6s ease-in-out;
+    }

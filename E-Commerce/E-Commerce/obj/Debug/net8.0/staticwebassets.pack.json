@@ -1,0 +1,829 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\E-Commerce.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg",
+      "PackagePath": "staticwebassets\\Images\\27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg",
+      "PackagePath": "staticwebassets\\Images\\55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png",
+      "PackagePath": "staticwebassets\\Images\\5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg",
+      "PackagePath": "staticwebassets\\Images\\5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg",
+      "PackagePath": "staticwebassets\\Images\\643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg",
+      "PackagePath": "staticwebassets\\Images\\6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg",
+      "PackagePath": "staticwebassets\\Images\\72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png",
+      "PackagePath": "staticwebassets\\Images\\87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png",
+      "PackagePath": "staticwebassets\\Images\\8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg",
+      "PackagePath": "staticwebassets\\Images\\8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg",
+      "PackagePath": "staticwebassets\\Images\\9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\About Us\\2672335.jpg",
+      "PackagePath": "staticwebassets\\Images\\About Us\\2672335.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1)-Photoroom.png",
+      "PackagePath": "staticwebassets\\Images\\RequiredOne (1)-Photoroom.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1).jpg",
+      "PackagePath": "staticwebassets\\Images\\RequiredOne (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a1.png",
+      "PackagePath": "staticwebassets\\Images\\a1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg",
+      "PackagePath": "staticwebassets\\Images\\a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg",
+      "PackagePath": "staticwebassets\\Images\\b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png",
+      "PackagePath": "staticwebassets\\Images\\b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg",
+      "PackagePath": "staticwebassets\\Images\\bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\button.png",
+      "PackagePath": "staticwebassets\\Images\\button.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg",
+      "PackagePath": "staticwebassets\\Images\\ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg",
+      "PackagePath": "staticwebassets\\Images\\e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg",
+      "PackagePath": "staticwebassets\\Images\\ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg",
+      "PackagePath": "staticwebassets\\Images\\f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f1.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f2.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f2.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f3.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f3.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f4.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f5.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f5.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f6.png",
+      "PackagePath": "staticwebassets\\Images\\features\\f6.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\pants (1)-Photoroom.png",
+      "PackagePath": "staticwebassets\\Images\\features\\pants (1)-Photoroom.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\sneaker-3-Photoroom.png",
+      "PackagePath": "staticwebassets\\Images\\features\\sneaker-3-Photoroom.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\t-shirt-10-Photoroom.png",
+      "PackagePath": "staticwebassets\\Images\\features\\t-shirt-10-Photoroom.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\Images\\hero2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero4.png",
+      "PackagePath": "staticwebassets\\Images\\hero4.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\logo.png",
+      "PackagePath": "staticwebassets\\Images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\noimage.jpeg",
+      "PackagePath": "staticwebassets\\Images\\noimage.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pants (1).jpeg",
+      "PackagePath": "staticwebassets\\Images\\pants (1).jpeg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\app.jpg",
+      "PackagePath": "staticwebassets\\Images\\pay\\app.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\pay.png",
+      "PackagePath": "staticwebassets\\Images\\pay\\pay.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\play.jpg",
+      "PackagePath": "staticwebassets\\Images\\pay\\play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-1.png",
+      "PackagePath": "staticwebassets\\Images\\sneaker-1.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-5.png",
+      "PackagePath": "staticwebassets\\Images\\sneaker-5.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sports-clothing-3.jpg",
+      "PackagePath": "staticwebassets\\Images\\sports-clothing-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\t-shirt-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\t-shirt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\taupe-1.jpg",
+      "PackagePath": "staticwebassets\\Images\\taupe-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-10.jpg",
+      "PackagePath": "staticwebassets\\Images\\white-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-15.jpg",
+      "PackagePath": "staticwebassets\\Images\\white-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-16.jpg",
+      "PackagePath": "staticwebassets\\Images\\white-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-21.jpg",
+      "PackagePath": "staticwebassets\\Images\\white-21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-22.jpg",
+      "PackagePath": "staticwebassets\\Images\\white-22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-left-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-left-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-us-page-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about-us-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\baner-right-image-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore-image-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\explore-image-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\instagram-06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\kid-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\left-banner-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\left-banner-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo-white@2x.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo-white@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\men-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\next.png",
+      "PackagePath": "staticwebassets\\assets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\prev.png",
+      "PackagePath": "staticwebassets\\assets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\products-page-heading.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\products-page-heading.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\service-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\single-product-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\team-member-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\white-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\white-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\women-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+      "PackagePath": "staticwebassets\\assets\\js\\accordions.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\imgfix.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\imgfix.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\isotope.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-2.1.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\assets\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\popper.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\quantity.js",
+      "PackagePath": "staticwebassets\\assets\\js\\quantity.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\scrollreveal.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scrollreveal.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
+      "PackagePath": "staticwebassets\\css\\login_SignUp.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\css\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.E-Commerce.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.E-Commerce.props",
+      "PackagePath": "build\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.E-Commerce.props",
+      "PackagePath": "buildMultiTargeting\\E-Commerce.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.E-Commerce.props",
+      "PackagePath": "buildTransitive\\E-Commerce.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,45 @@
+﻿@page
+@model SignUpModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+
+<div class="wrapper">
+    <div class="title">
+        Sign Up
+    </div>
+    <form method="post">
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <div class="field">
+            <input asp-for="User.Name" type="text" required>
+            <label>Name</label>
+            <span asp-validation-for="User.Name" class="text-danger"></span>
+        </div>
+        <div class="field">
+            <input asp-for="User.Email" type="email" required>
+            <label>Email</label>
+            <span asp-validation-for="User.Email" class="text-danger"></span>
+        </div>
+        <div class="field">
+            <input asp-for="User.Address" type="text" required>
+            <label>Address</label>
+            <span asp-validation-for="User.Address" class="text-danger"></span>
+        </div>
+        <div class="field">
+            <input asp-for="User.Password" type="password" required>
+            <label>Password</label>
+            <span asp-validation-for="User.Password" class="text-danger"></span>
+        </div>
+        <div class="field">
+            <input asp-for="User.ConfirmPassword" type="password" required>
+            <label>Confirm Password</label>
+            <span asp-validation-for="User.ConfirmPassword" class="text-danger"></span>
+        </div>
+        <div class="field " style=" margin-top: 40px; margin-bottom:10px">
+            <input type="submit" value="Sign Up">
+        </div>
+        <div class="signup-link" style=" margin-top: 8px;">
+            Already a member? <a asp-page="/Account/Login">Login now</a>
+        </div>
+    </form>
+</div>

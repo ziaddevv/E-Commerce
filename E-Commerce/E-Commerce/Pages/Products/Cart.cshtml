@@ -1,0 +1,39 @@
+﻿@page
+@model E_Commerce.Pages.Products.CartModel
+
+<div class="container mt-5">
+    <h1>Your Cart</h1>
+
+    @if (ViewData["Error"] != null)
+    {
+        <p class="text-danger">@ViewData["Error"]</p>
+    }
+    else if (Model.CartItems.Count == 0)
+    {
+        <p>Your cart is empty. <a href="/Products/Content">Shop now</a>!</p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CartItems)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Price</td>
+                        <td>@item.Quantity</td>
+                        <td>@(item.Price * item.Quantity)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

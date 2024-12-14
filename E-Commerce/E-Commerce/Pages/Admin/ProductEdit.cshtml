@@ -1,0 +1,71 @@
+﻿@page "{id:min(1)}"
+@model E_Commerce.Pages.Admin.ProductEditModel
+@{
+    var photoPath = (Model.Product.Image != null) ? Model.Product.Image : "/Images/noimage.jpg";
+}
+
+<div class="container py-5">
+    <form method="post" enctype="multipart/form-data" class="mx-auto shadow-lg p-4 bg-white rounded" style="max-width: 600px;">
+        <input hidden asp-for="Product.Id" />
+
+
+        <input type="hidden" asp-for="Product.Image" value="@Model.Product.Image" />
+        <input type="hidden" asp-for="@Model.Photo" value="@Model.Photo" />
+
+        <div class="text-center mb-4">
+            <h2 class="text-primary">Edit Product</h2>
+            <hr />
+        </div>
+
+        <div asp-validation-summary="All" class="alert alert-danger mb-3"></div>
+        <div class="mb-3">
+            <label asp-for="Product.Type">Choose The Type </label>
+            <select asp-for="Product.Type" class="form-control" asp-items="Model.TypeList"></select>
+            <span asp-validation-for="Product.Type" class="text-danger"></span>
+        </div>
+        <div class="mb-3">
+            <label asp-for="Product.Name" class="form-label">Product Name</label>
+            <input asp-for="Product.Name" class="form-control" placeholder="Enter product name" />
+            <span asp-validation-for="Product.Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Product.Price" class="form-label">Price</label>
+            <input asp-for="Product.Price" class="form-control" placeholder="Enter price" />
+            <span asp-validation-for="Product.Price" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Product.Stock" class="form-label">Stock</label>
+            <input asp-for="Product.Stock" class="form-control" placeholder="Enter stock quantity" />
+            <span asp-validation-for="Product.Stock" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Product.Description" class="form-label">Description</label>
+            <textarea asp-for="Product.Description" class="form-control" rows="3" placeholder="Enter description"></textarea>
+            <span asp-validation-for="Product.Description" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Photo" class="form-label">Product Image</label>
+            <input asp-for="Photo" type="file" class="form-control" />
+
+            <span asp-validation-for="Photo" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3 text-center">
+            <img class="img-fluid img-thumbnail" src="@photoPath" style="max-height: 200px; border: 2px solid #ddd;" asp-append-version="true" />
+        </div>
+
+
+        <div class="d-flex justify-content-between">
+            <button type="submit" class="btn btn-success" style="width: 150px;">Update</button>
+            <a asp-page="Index" class="btn btn-outline-secondary"><i class="bi bi-arrow-left-circle"></i> Back</a>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

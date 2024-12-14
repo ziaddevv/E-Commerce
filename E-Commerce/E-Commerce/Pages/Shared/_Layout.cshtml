@@ -1,0 +1,303 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - E_Commerce</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/login_SignUp.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/all.min.css" />
+    <link rel="stylesheet" href="~/css/fontawesome.min.css" />
+
+
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    @*<link rel="stylesheet" href="~/assets/css/font-awesome.css">*@
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+
+
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    @*<link rel="stylesheet" type="text/css" href="~/css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="~/css/fontawesome.min.css">*@
+
+
+    <link rel="stylesheet" href="assets/css/templatemo-hexashop.css">
+
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
+
+    <link rel="stylesheet" href="assets/css/lightbox.css">
+
+
+
+
+</head>
+<body>
+    @*
+           <header>
+              <nav class="navbar navbar-expand-lg bg-body-tertiary">
+                  <div class="container">
+                      <a class="navbar-brand fs-4" href="/Index">
+                          <img src="~/Images/logo.png" alt="Logo" class="logo img-fluid">
+                      </a>
+                      <button style="color:black!important" class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                          <span class="navbar-toggler-icon"></span>
+                      </button>
+                      <div class="sidebar offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                          <div class="offcanvas-header text-black">
+                              <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Links</h5>
+                              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                          </div>
+
+                          <div class="offcanvas-body d-flex flex-column flex-lg-row p-2 p-lg-0">
+                              <ul class="navbar-nav justify-content-center align-items-center fs-7 flex-grow-1 pe-3">
+                                  <li class="nav-item mx-2">
+                                      <a class="nav-link active" asp-page="/Index">Home</a>
+                                  </li>
+                                  <li class="nav-item mx-2">
+                                      <a class="nav-link" asp-page="/Products/Content">Shop</a>
+                                  </li>
+
+                                  @if (Context.Session.GetString("UserEmail") == "admin@gmail.com")
+                                  {
+                                      <li class="nav-item mx-2">
+                                          <a class="nav-link" asp-page="/Admin/Index">Dashboard</a>
+                                      </li>
+                                  }
+                                  else
+                                  {
+                                      <li class="nav-item mx-2">
+                                          <a class="nav-link" asp-page="/Contact">Contact Us</a>
+                                      </li>
+                                      <li class="nav-item mx-2">
+                                          <a class="nav-link" asp-page="/About">About</a>
+                                      </li>
+
+                                      <li class="nav-item mx-2">
+                                          <a class="btn btn-outline-success ms-2" asp-page="/Products/Cart">Cart</a>
+                                      </li>
+
+                                  }
+                              </ul>
+
+                              <div class="d-flex flex-column justify-content-center align-items-center flex-lg-row gap-3">
+                                  @if (Context.Session.GetString("UserEmail") != null)
+                                  {
+                                      <a class="btn btn-outline-danger ms-2" asp-page="/Account/Logout">Logout</a>
+
+
+                                  }
+                                  else
+                                  {
+                                      <a asp-page="/Account/Login" class="text-black">Login</a>
+                                      <a asp-page="/Account/SignUp" class="text-black text-decoration-none px-3 py-1 bg-primary rounded-4" style="background-color: #088178 !important">Sign Up</a>
+                                  }
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </nav>
+          </header>*@
+    <header>
+        <nav class="navbar navbar-expand-lg bg-body-tertiary">
+            <div class="container">
+                <a class="navbar-brand fs-4" href="/Index">
+                    <img src="~/Images/logo.png" alt="Logo" class="logo img-fluid">
+                </a>
+                <button style="color:black!important" class="navbar-toggler shadow-none border-0" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="sidebar offcanvas offcanvas-start" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                    <div class="offcanvas-header text-black">
+                        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Links</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+
+                    <div class="offcanvas-body d-flex flex-column flex-lg-row p-2 p-lg-0">
+                        <ul class="navbar-nav justify-content-center align-items-center fs-7 flex-grow-1 pe-3">
+                            <li class="nav-item mx-2">
+                                <a class="nav-link " asp-page="/Index" id="homeLink">Home</a>
+                            </li>
+                            <li class="nav-item mx-2">
+                                <a class="nav-link" asp-page="/Products/Content" id="shopLink">Shop</a>
+                            </li>
+                            @if (Context.Session.GetString("UserEmail") == "admin@gmail.com")
+                            {
+                                <li class="nav-item mx-2">
+                                    <a class="nav-link" asp-page="/Admin/Index" id="dashboardLink">Dashboard</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="nav-item mx-2">
+                                    <a class="nav-link" asp-page="/Contact" id="contactLink">Contact Us</a>
+                                </li>
+                                <li class="nav-item mx-2">
+                                    <a class="nav-link" asp-page="/About" id="aboutLink">About</a>
+                                </li>
+                                <li class="nav-item mx-2">
+                                    <a class="btn btn-outline-success ms-2" asp-page="/Products/Cart" id="cartLink">Cart</a>
+                                </li>
+                            }
+                        </ul>
+
+                        <div class="d-flex flex-column justify-content-center align-items-center flex-lg-row gap-3">
+                            @if (Context.Session.GetString("UserEmail") != null)
+                            {
+                                <a class="btn btn-outline-danger ms-2" href="/Account/Logout">Logout</a>
+                            }
+                            else
+                            {
+                                <a href="/Account/Login" class="text-black">Login</a>
+                                <a href="/Account/SignUp" class="text-black text-decoration-none px-3 py-1 bg-primary rounded-4" style="background-color: #088178 !important">Sign Up</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+
+            const currentPath = window.location.pathname;
+
+
+            const navLinks = document.querySelectorAll('.nav-link');
+
+
+            navLinks.forEach(link => {
+                if (link.getAttribute('href') === currentPath) {
+                    link.classList.add('active');
+                } else {
+                    link.classList.remove('active');
+                }
+            });
+        });
+
+    </script>
+
+    <style>
+        .nav-link.active {
+            color: #088178 !important;  
+            font-weight: bold;  
+            border-bottom: 2px solid #088178; 
+        }
+    </style>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+
+    <footer class="section-p1">
+        <div class="coll text-black">
+            <img src="~/Images/logo.png" />
+            <h3>Contact</h3>
+            <p><strong>Address</strong> ELKhalifa Road,Street 1,Cairo</p>
+            <p><strong>Phone</strong>+20 111419833</p>
+            <p><strong>Hours</strong>  10:00 - 18:00,Mon-Sat</p>
+            <div class="follow">
+                <h3>Follow Us</h3>
+                <div class="icon">
+                    <i class="fab fa-facebook-f"></i>
+                    <i class="fab fa-twitter"></i>
+                    <i class="fab fa-instagram"></i>
+                    <i class="fab fa-pinterest"></i>
+                    <i class="fab fa-youtube"></i>
+
+                </div>
+            </div>
+        </div>
+        <div class="coll">
+            <h4>About</h4>
+            <a asp-page="/About">About</a>
+            <a asp-page="/Privacy">Privacy</a>
+            <a asp-page="/About">Terms And Conditions</a>
+            <a asp-page="/Contact">Contact Us</a>
+        </div>
+        <div class="coll">
+            <h4>My Account</h4>
+            <a asp-page="/Account/login">Sign In</a>
+            <a asp-page="/Products/Cart">View Cart</a>
+            <a asp-page="/WishList">MY WishList</a>
+            <a asp-page="/Help">Help</a>
+        </div>
+        <div class="coll install">
+            <h4>Install App</h4>
+            <p>From Ap Stare Or Google Play</p>
+            <div class="roww">
+                <img src="~/Images/pay/app.jpg" />
+                <img src="~/Images/pay/play.jpg" />
+            </div>
+            <p>Secure Payment Gateways</p>
+            <img src="~/Images/pay/pay.png" alt="" />
+
+        </div>
+        <div class="copyright">
+
+            <p>All right Are Reserved to Zizo</p>
+        </div>
+    </footer>
+
+
+    <!-- footer copy right section end -->
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="assets/js/custom.js"></script>
+    <!-- jQuery -->
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    @*<script src="assets/js/owl-carousel.js"></script>
+        <script src="assets/js/accordions.js"></script>
+        <script src="assets/js/datepicker.js"></script>
+        <script src="assets/js/scrollreveal.min.js"></script>
+        <script src="assets/js/waypoints.min.js"></script>
+        <script src="assets/js/jquery.counterup.min.js"></script>
+        <script src="assets/js/imgfix.min.js"></script>
+        <script src="assets/js/slick.js"></script>
+        <script src="assets/js/lightbox.js"></script>
+        <script src="assets/js/isotope.js"></script>*@
+    <script>
+
+        $(function () {
+            var selectedClass = "";
+            $("p").click(function () {
+                selectedClass = $(this).attr("data-rel");
+                $("#portfolio").fadeTo(50, 0.1);
+                $("#portfolio div").not("." + selectedClass).fadeOut();
+                setTimeout(function () {
+                    $("." + selectedClass).fadeIn();
+                    $("#portfolio").fadeTo(50, 1);
+                }, 500);
+
+            });
+        });
+
+    </script>
+    <script src="~/js/site.js"></script>
+    <script src="https://kit.fontawesome.com/93101d7160.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
+
+
+

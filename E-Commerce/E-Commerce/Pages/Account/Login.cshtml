@@ -1,0 +1,53 @@
+﻿@page 
+@model LoginModel
+@{
+}
+
+<div class="container-fluid">
+ 
+    <div class="wrapper">
+        <div class="title">
+            Login Form
+        </div>
+        <form method="post">
+         
+            <div asp-validation-summary="All" class="text-danger"></div>
+
+         
+            <div class="field">
+                <input asp-for="Email" type="text" required>
+                <label>Email Address</label>
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+           
+            <div class="field">
+                <input asp-for="Password" type="password" required>
+                <label>Password</label>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+           
+            <div class="content">
+                <div class="checkbox">
+                    <input type="checkbox" id="remember-me">
+                    <label for="remember-me">Remember me</label>
+                </div>
+                <div class="pass-link">
+                    <a href="#">Forgot password?</a>
+                </div>
+            </div>
+
+           
+            <div class="field">
+                <input type="submit" value="Login">
+            </div>
+
+         
+            <div class="signup-link">
+                Not a member? <a asp-page="/Account/SignUp">Signup now</a>
+            </div>
+        </form>
+    </div>
+
+</div>

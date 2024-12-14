@@ -1,0 +1,57 @@
+﻿@page
+@model E_Commerce.Pages.Products.ContentModel
+@{
+}
+
+<div class="container my-5">
+    <div class="row  " >
+        <div class="col-6 ">
+            <h1 class=" ">Our Products</h1>
+        </div>
+        <div class="col-6  text-end  ">
+            <a asp-page="create" class="btn btn-primary  "  style="font-size:20px; "><i class="bi bi-database-add"></i> &nbsp; Add New Product</a>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>#</th>
+                    <th>Image</th>
+                    <th>Name</th>
+                    <th>Price (EGP)</th>
+                    <th>Stock</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var obj in Model.Products)
+                {
+          
+                    
+
+
+                    <tr>
+                        <td>@obj.Id</td>
+                        <td>
+                            <img src="@obj.Image" alt="@obj.Name" style="height: 50px; width: 50px; object-fit: cover;">
+                        </td>
+                        <td>@obj.Name</td>
+                        <td>@obj.Price</td>
+                        <td>@obj.Stock</td>
+                       
+
+                        <td>
+                            <div class="d-flex justify-content-evenly">
+                                <a asp-page="ProductEdit" asp-route-id="@obj.Id" class="btn btn-sm btn-outline-success">Edit</a>
+                                <a asp-page="ProductDelete" asp-route-id="@obj.Id" class="btn btn-sm btn-outline-danger">Delete</a>
+
+                            </div>
+                        </td>
+                    </tr>
+                    
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

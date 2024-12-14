@@ -1,0 +1,65 @@
+﻿@page
+@model E_Commerce.Pages.Products.ContentModel
+@{
+}
+<link rel="stylesheet" href="styles.css">
+
+
+<div class="container my-5">
+    <h1 class="text-center mb-4">Our Products</h1>
+    <div class="row g-2" style="margin: 18px;">
+        <div class="col"><a href="?productType=T_shirt" class="btn btn-primary w-100">Shirts</a></div>
+        <div class="col"><a href="?productType=Pants" class="btn btn-primary w-100">Pants</a></div>
+        <div class="col"><a href="?productType=shoe" class="btn btn-primary w-100">Shoes</a></div>
+        <div class="col"><a href="?productType=Bag" class="btn btn-primary w-100">Bags</a></div>
+        <div class="col"><a href="?productType=Item" class="btn btn-primary w-100">Items</a></div>
+        <div class="col"><a href="?productType=Other" class="btn btn-primary w-100">Others</a></div>
+        <div class="col"><a href="?" class="btn btn-secondary w-100">All Products</a></div>
+    </div>
+
+    <h1 class="text-center mb-4">
+        @if (!string.IsNullOrEmpty(Model.CurrentFilter))
+        {
+            <span>Products in Category: <strong>@Model.CurrentFilter</strong></span>
+        }
+        else
+        {
+            <span>All Products</span>
+        }
+    </h1>
+    <div class="row g-4" id="product-container">
+        @foreach (var obj in Model.Products)
+
+        {
+             
+
+
+            if (obj.Stock == 0)
+            {
+                continue;
+            }
+            if (true)
+            {
+
+                <div class="col-md-4 col-sm-6 d-flex justify-content-center product-card">
+                    <div class="card shadow-sm border-0" style="width: 18rem; transition: transform 0.3s, box-shadow 0.3s;">
+                        <img src="@obj.Image" class="card-img-top rounded-top" alt="@obj.Name" style="height: 200px; object-fit: fill;">
+                        <div class="card-body">
+                            <h5 class="card-title fw-bold">@obj.Name</h5>
+                            <h6 class="card-text text-muted">Price: <span class="text-primary">@obj.Price EGP</span></h6>
+                            <h6 class="card-text text-muted">Stock: <span class="text-success">@obj.Stock</span></h6>
+                            <a asp-page="ProductView" asp-route-id="@obj.Id" class="btn btn-outline-primary mt-3 w-100">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+
+        }
+    </div>
+
+    
+</div>
+
+ 

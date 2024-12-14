@@ -1,0 +1,38 @@
+﻿@page "{id:int}"
+@model E_Commerce.Pages.Products.ProductViewModel
+@{
+}
+<div class="container mt-5">
+    @if (TempData["Message"] != null)
+    {
+        <div class="alert alert-success mt-3">@TempData["Message"]</div>
+    }
+    <div class="row g-5">
+        <div class="col-md-6 d-flex justify-content-center align-items-center">
+            <img src="@Model.Product.Image" class="img-fluid rounded shadow-sm" alt="@Model.Product.Name" style="max-height: 500px; object-fit: contain;">
+        </div>
+
+        <div class="col-md-6">
+            <h1 class="display-5 fw-bold">@Model.Product.Name</h1>
+            <h4 class="text-primary mt-3">Price: @Model.Product.Price EGP</h4>
+            <h6 class="text-muted">In Stock: <span class="text-success fw-bold">@Model.Product.Stock</span></h6>
+            <p class="mt-4 text-secondary fs-5">@Model.Product.Description</p>
+
+            @if (string.IsNullOrEmpty(Model.UserEmail) || Model.UserEmail != "admin@gmail.com")
+            {
+                <form method="post" asp-page-handler="AddToCart">
+                    <input type="hidden" name="productId" value="@Model.Product.Id" />
+                    <input type="hidden" name="productName" value="@Model.Product.Name" />
+                    <input type="hidden" name="price" value="@Model.Product.Price" />
+                    <button type="submit" class="btn btn-primary btn-lg me-3">Add to Cart</button>
+                </form>
+            }
+
+            <ul class="list-unstyled mt-4">
+                <li class="mb-2"><i class="bi bi-check-circle-fill text-success"></i> 30-Day Money Back Guarantee</li>
+                <li class="mb-2"><i class="bi bi-truck text-primary"></i> Free Delivery on Orders Over 500 EGP</li>
+                <li><i class="bi bi-shield-lock-fill text-warning"></i> Secure Payment</li>
+            </ul>
+        </div>
+    </div>
+</div>
