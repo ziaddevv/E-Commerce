@@ -1,285 +1,229 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\productedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\productdelete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productdelete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\signup.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\productview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\productview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\productview.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\productview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\products\\content.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\content.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\content.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\css\\login_signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\content.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\css\\login_signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\css\\login_signup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\products\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\products\\cart.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\productdelete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productdelete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\admin\\productedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\admin\\productedit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\js\\custom.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\js\\bootstrap.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\accordions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\assets\\js\\accordions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\js\\accordions.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\assets\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\css\\font-awesome.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\wwwroot\\assets\\css\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\migrations\\20241210051511_updatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\migrations\\20241210051511_updatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\migrations\\20241210051511_updatetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\source\\repos\\e-commerce\\e-commerce\\migrations\\20241210045345_typeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|c:\\users\\dell\\documents\\github\\e-commerce\\e-commerce\\e-commerce\\migrations\\20241210045345_typeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCF8DAD2-5441-484A-B0C0-080B2CC57908}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\migrations\\20241210045345_typeadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedWidth": 767,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAkwLcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T19:24:31.776Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "styles.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\styles.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\styles.css",
-              "ViewState": "AgIAACAAAAAAAAAAAAAcwCwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-07T19:17:19.577Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T14:48:05.421Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-10T19:22:27.51Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
@@ -291,60 +235,83 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMBAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-10T18:12:58.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Contact.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T00:18:53.716Z",
+              "WhenOpened": "2024-12-14T11:32:57.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\Product.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\Product.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:17:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T06:45:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T14:47:21.353Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "E-Commerce\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T01:33:28.317Z"
+              "WhenOpened": "2024-12-06T04:00:19.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\CartItem.cs",
+              "RelativeToolTip": "E-Commerce\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:50:31.356Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\CartService.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\CartService.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\CartService.cs",
-              "RelativeToolTip": "E-Commerce\\CartService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:51:20.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeToolTip": "E-Commerce\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -353,277 +320,178 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\Product.cs",
-              "RelativeToolTip": "E-Commerce\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:17:25.686Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Contact.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Contact.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Contact.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T21:38:17.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T23:38:06.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "SignUp.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\SignUp.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml",
               "RelativeToolTip": "E-Commerce\\Pages\\Account\\SignUp.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T17:14:48.392Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "SignUp.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
               "RelativeToolTip": "E-Commerce\\Pages\\Account\\SignUp.cshtml.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAgwC4AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T18:56:51.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\IProductRepository.cs",
-              "RelativeToolTip": "E-Commerce\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:22:09.58Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAGkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T11:43:19.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDelete.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T17:22:39.873Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T13:30:26.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:33:28.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T13:30:32.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductView.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:58:58.376Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Login.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Title": "ProductView.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\ProductView.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Products\\ProductView.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T14:47:21.353Z"
+              "WhenOpened": "2024-12-12T10:45:01.399Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Models\\CartItem.cs",
-              "RelativeToolTip": "E-Commerce\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 19,
+              "Title": "Content.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Content.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Content.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:50:31.356Z"
+              "WhenOpened": "2024-12-06T18:37:14.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\ProductRepository.cs",
-              "RelativeToolTip": "E-Commerce\\ProductRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAsAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T11:22:54.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Program.cs",
-              "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T03:59:59.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Create.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwC8AAABIAAAAAAAAAA==",
+              "DocumentIndex": 20,
+              "Title": "Content.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Content.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Content.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T01:01:04.594Z"
+              "WhenOpened": "2024-12-14T13:29:37.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Index.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAUAAAAAAAAAA==",
+              "DocumentIndex": 27,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T17:14:35.066Z"
+              "WhenOpened": "2024-12-06T17:22:39.873Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
               "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-06T17:23:04.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "bootstrap.min.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcGQAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-10T18:15:36.38Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "E-Commerce\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:00:19.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ProductEdit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDkAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T20:12:07.785Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ProductDelete.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T20:09:10.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Create.cshtml.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAowB8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:55:30.421Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\appsettings.json",
-              "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\appsettings.json",
-              "RelativeToolTip": "E-Commerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-06T04:30:07.04Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\About.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\About.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\About.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T19:29:02.1Z"
+              "WhenOpened": "2024-12-14T12:05:19.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "E-Commerce.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
-              "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.csproj",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
-              "RelativeToolTip": "E-Commerce\\E-Commerce.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T02:16:06.719Z"
+              "DocumentIndex": 22,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T21:38:17.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 23,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Error.cshtml",
               "RelativeToolTip": "E-Commerce\\Pages\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -631,167 +499,251 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\About.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\About.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\About.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T00:18:17.639Z"
+              "WhenOpened": "2024-12-10T00:18:53.716Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ProductView.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\ProductView.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Products\\ProductView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\ProductRepository.cs",
+              "RelativeToolTip": "E-Commerce\\ProductRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:30:11.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\IProductRepository.cs",
+              "RelativeToolTip": "E-Commerce\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:30:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-12T10:45:01.399Z"
+              "WhenOpened": "2024-12-14T11:43:16.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "login_SignUp.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\login_SignUp.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\login_SignUp.css",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-11T14:12:16.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\CartService.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\CartService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\CartService.cs",
+              "RelativeToolTip": "E-Commerce\\CartService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T12:15:42.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-14T13:30:31.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
-              "Title": "Content.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Content.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Content.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-06T17:15:34.592Z"
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-16T06:11:58.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "Cart.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Cart.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml",
               "RelativeToolTip": "E-Commerce\\Pages\\Products\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-10T00:30:49.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Cart.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:58:33.557Z"
+              "DocumentIndex": 28,
+              "Title": "E-Commerce.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+              "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+              "RelativeToolTip": "E-Commerce\\E-Commerce.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T02:16:06.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 29,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T18:12:58.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\appsettings.json",
+              "RelativeToolTip": "E-Commerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-14T12:12:44.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
               "RelativeToolTip": "E-Commerce\\Pages\\Admin\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-06T18:27:18.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "Logout.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
               "RelativeToolTip": "E-Commerce\\Pages\\Account\\Logout.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T06:45:36.288Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
-              "Title": "Logout.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Account\\Logout.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Account\\Logout.cshtml",
-              "RelativeToolTip": "E-Commerce\\Pages\\Account\\Logout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T06:45:21.234Z"
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\styles.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\styles.css",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAALkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-14T11:36:27.814Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "Content.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Content.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\Content.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Content.cshtml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAEAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 37,
+              "Title": "Cart.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Products\\Cart.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T18:37:14.694Z"
+              "WhenOpened": "2024-12-13T01:58:33.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductDelete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductDelete.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:09:10.059Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
-              "Title": "ProductView.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
-              "RelativeToolTip": "E-Commerce\\Pages\\Products\\ProductView.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Title": "ProductEdit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Admin\\ProductEdit.cshtml.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:58:58.376Z"
+              "WhenOpened": "2024-12-06T20:12:07.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "E-Commerce\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T03:59:59.101Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-13T04:36:49.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "login_SignUp.css",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\css\\login_SignUp.css",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\css\\login_SignUp.css",
-              "ViewState": "AgIAAJQAAAAAAAAAAADwv50AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-11T14:12:16.858Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "accordions.js",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\js\\accordions.js",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\js\\accordions.js",
-              "ViewState": "AgIAALIAAAAAAAAAAAAkwDEAAAAJAAAAAAAAAA==",
+              "Title": "custom.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\js\\custom.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\js\\custom.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-10T19:21:47.129Z"
+              "WhenOpened": "2024-12-10T19:23:28.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 42,
               "Title": "bootstrap.min.js",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
               "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
               "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -799,23 +751,83 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "custom.js",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
-              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\js\\custom.js",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
-              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\js\\custom.js",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAcwAQAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 43,
+              "Title": "accordions.js",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAqwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-10T19:23:28.255Z"
+              "WhenOpened": "2024-12-10T19:21:47.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "font-awesome.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-15T12:43:24.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "RelativeToolTip": "E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcGQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T18:15:36.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "E-Commerce\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T23:38:06.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "E-Commerce\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T19:29:02.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "E-Commerce\\Pages\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-13T04:36:49.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "E-Commerce\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -823,11 +835,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "20241210051511_updatetype.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Migrations\\20241210051511_updatetype.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20241210051511_updatetype.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Migrations\\20241210051511_updatetype.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Migrations\\20241210051511_updatetype.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20241210051511_updatetype.cs",
               "RelativeToolTip": "E-Commerce\\Migrations\\20241210051511_updatetype.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -835,11 +847,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "20241210045345_typeadded.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Migrations\\20241210045345_typeadded.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20241210045345_typeadded.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Migrations\\20241210045345_typeadded.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Migrations\\20241210045345_typeadded.cs",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Migrations\\20241210045345_typeadded.cs",
               "RelativeToolTip": "E-Commerce\\Migrations\\20241210045345_typeadded.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -847,15 +859,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "E-Commerce\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
               "RelativeToolTip": "E-Commerce\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-06T03:58:06.453Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

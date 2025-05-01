@@ -25,15 +25,15 @@ namespace E_Commerce.Pages.Account
 		public IActionResult OnPost()
         {
 
-			if (!ModelState.IsValid)
+			if (!ModelState.IsValid)//form complete or not ???
 			{
 				return Page();
-			} 
-			if (User.Email.ToLower() == "admin@gmail.com")
-            {
-                ModelState.AddModelError(nameof(User.Email), "This email is reserved . Please choose another email.");
-                return Page();
-            }
+			}
+            //if (User.Email.ToLower() == "admin@gmail.com")
+            //{
+            //    ModelState.AddModelError(nameof(User.Email), "This email is reserved . Please choose another email.");
+            //    return Page();
+            //}
             var existingUser = _Context.Users.FirstOrDefault(u => u.Email.ToLower() == User.Email.ToLower());
             if (existingUser != null)
             {

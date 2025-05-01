@@ -17,87 +17,87 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = E_Commerce
 build_property.RootNamespace = E_Commerce
-build_property.ProjectDir = C:\Users\DELL\source\repos\E-Commerce\E-Commerce\
+build_property.ProjectDir = C:\Users\DELL\Documents\GitHub\E-Commerce\E-Commerce\E-Commerce\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\DELL\source\repos\E-Commerce\E-Commerce
+build_property.MSBuildProjectDirectory = C:\Users\DELL\Documents\GitHub\E-Commerce\E-Commerce\E-Commerce
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/About.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Account/Login.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Account/Logout.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Account/SignUp.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Account/SignUp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxTaWduVXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Admin/Create.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Admin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Admin/Index.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Admin/ProductDelete.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Admin/ProductDelete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Admin/ProductEdit.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Admin/ProductEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cUHJvZHVjdEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Contact.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Error.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Index.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Privacy.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Products/Cart.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Products/Cart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Products/Content.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Products/Content.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcQ29udGVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Products/ProductView.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Products/ProductView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNcUHJvZHVjdFZpZXcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/_ViewImports.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/_ViewStart.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL/source/repos/E-Commerce/E-Commerce/Pages/Shared/_Layout.cshtml]
+[C:/Users/DELL/Documents/GitHub/E-Commerce/E-Commerce/E-Commerce/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3lzhz6ww09

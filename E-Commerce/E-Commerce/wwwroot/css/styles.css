@@ -66,9 +66,10 @@ header {
     top: 0;
     left: 0;
 }
-
+/*--------------------------------------------HERO SECTION ------------------------------------------------*/
 #hero {
-    background-image: url("../Images/hero4.png");
+    background-image: url("../Images/hero2.jpg");
+   /* background-image: url("../Images/original-9a72ce217ec05cbb67cb462801094776.png");*/
     height: 90vh;
     width: 100%;
     background-position: top 25% right 0;
@@ -100,6 +101,7 @@ header {
         font-weight: 700;
         font-size: 15px;
     }
+/*--------------------------------------------Features SECTION ------------------------------------------------*/
 
 #feature {
     display: flex;
@@ -159,7 +161,7 @@ header {
 #product1 .row {
     display: flex;
     flex-wrap: wrap;
-    gap: 20px; /* Adds spacing between cards */
+    gap: 20px;  
 }
 
 #product1 .col-lg-3 {
@@ -175,13 +177,13 @@ header {
 
 @media (max-width: 1200px) {
     #product1 .col-lg-3 {
-        flex: 0 0 45%; /* Two cards per row for medium screens */
+        flex: 0 0 45%; 
     }
 }
 
 @media (max-width: 768px) {
     #product1 .col-lg-3 {
-        flex: 0 0 90%; /* One card per row for small screens */
+        flex: 0 0 90% ;
     }
 }
 

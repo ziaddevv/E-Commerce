@@ -27,5 +27,21 @@ namespace E_Commerce.Pages.Products
 				ViewData["Error"] = "Please log in to view your cart.";
 			}
 		}
+		public void OnPostDelete(int productId)
+		{
+			try
+			{
+				_cartService.DecrementQuantityOrRemove(productId);
+				CartItems = _cartService.GetCart();
+			}
+			catch (InvalidOperationException ex)
+			{
+				// Handle case where the user is not logged in
+				CartItems = new List<CartItem>();
+				ViewData["Error"] = "Please log in to update your cart.";
+			}
+		}
+
+
 	}
 }

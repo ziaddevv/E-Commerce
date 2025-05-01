@@ -2,29 +2,38 @@
 @model E_Commerce.Pages.ContactModel
 @{
 }
+
 <div class="wrapper">
     <div class="title">
         Contact Us
     </div>
+
+    @if (!string.IsNullOrEmpty(Model.SuccessMessage))//do not show the message 
+    {
+        <div class="alert alert-success">
+            @Model.SuccessMessage
+        </div>
+    }
+
     <form method="post">
         <div class="field">
-            <input type="text" name="Name" required>
-            <label>Name</label>
+            <input type="text" name="Name" value="@Model.Name" required>
+            <label for="Name">Name</label>
         </div>
         <div class="field">
-            <input type="email" name="Email" required>
-            <label>Email</label>
+            <input type="email" name="Email" value="@Model.Email" required>
+            <label for="Email">Email</label>
         </div>
         <div class="field">
-            <input type="text" name="Subject" required>
-            <label>Subject</label>
+            <input type="text" name="Subject" value="@Model.Subject" required>
+            <label for="Subject">Subject</label>
         </div>
         <div class="field">
-            <input type="text" name="Subject" required>
+            <input type="text" name="PhoneNumber" value="@Model.PhoneNumber" required>
             <label>Phone Number</label>
         </div>
         <div class="field textarea">
-            <textarea name="Message" rows="4" required></textarea>
+            <textarea name="Message" rows="4" required>@Model.Message</textarea>
             <label>Message</label>
         </div>
         <div class="field">

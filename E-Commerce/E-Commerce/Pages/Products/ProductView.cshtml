@@ -18,7 +18,7 @@
             <h6 class="text-muted">In Stock: <span class="text-success fw-bold">@Model.Product.Stock</span></h6>
             <p class="mt-4 text-secondary fs-5">@Model.Product.Description</p>
 
-            @if (string.IsNullOrEmpty(Model.UserEmail) || Model.UserEmail != "admin@gmail.com")
+            @if (string.IsNullOrEmpty(Model.UserEmail) || Model.UserEmail != "admin@gmail.com") //if admin hide the add to card button
             {
                 <form method="post" asp-page-handler="AddToCart">
                     <input type="hidden" name="productId" value="@Model.Product.Id" />

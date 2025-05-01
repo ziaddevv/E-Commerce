@@ -8,7 +8,7 @@ namespace E_Commerce.Pages.Admin
         public IActionResult OnGet()
         {
             var email=HttpContext.Session.GetString("UserEmail");
-			if (email != "admin@gmail.com")
+			if (email != "admin@gmail.com")//cae that user is not an admin
             {
                 return RedirectToPage("/Account/Login");
             }

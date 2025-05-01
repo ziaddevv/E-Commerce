@@ -8181,11 +8181,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
       "projectName": "E-Commerce",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

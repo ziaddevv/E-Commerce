@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8WtnHJK+GCBxTZzdlIDJpG7711FYSHHweVhJcTMavrk=",
+  "Hash": "BJIgcgKczxD5g7/rhBoicOncwjR7zfmEBk2RlcIc5/0=",
   "Source": "E-Commerce",
   "BasePath": "_content/E-Commerce",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "E-Commerce\\wwwroot",
       "Source": "E-Commerce",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.11\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-Commerce.styles.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-Commerce.styles.css",
       "SourceId": "E-Commerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "E-Commerce.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-Commerce.styles.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\bundle\\E-Commerce.styles.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css",
       "SourceId": "E-Commerce",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "E-Commerce.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\E-Commerce.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\css\\font-awesome.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/css/font-awesome.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\Flaticon.woff",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.eot",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.svg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\flexslider-icon.woff",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.eot",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/slick.eot",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.svg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/slick.svg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/slick.ttf",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\fonts\\slick.woff",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/fonts/slick.woff",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-left-image.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-left-image.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/about-left-image.jpg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-left-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-us-page-heading.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\about-us-page-heading.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/about-us-page-heading.jpg",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\about-us-page-heading.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/baner-right-image-01.jpg",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-right-image-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/baner-right-image-02.jpg",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-right-image-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/baner-right-image-03.jpg",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-right-image-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-04.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\baner-right-image-04.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/baner-right-image-04.jpg",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\baner-right-image-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\close.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\close.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/close.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\close.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/explore-image-01.jpg",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\explore-image-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\explore-image-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/explore-image-02.jpg",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\explore-image-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-01.jpg",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-02.jpg",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-03.jpg",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-04.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-04.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-04.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-04.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-05.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-05.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-05.jpg",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-05.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-06.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\instagram-06.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/instagram-06.jpg",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\instagram-06.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/kid-01.jpg",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\kid-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/kid-02.jpg",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\kid-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\kid-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/kid-03.jpg",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\kid-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\left-banner-image.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\left-banner-image.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/left-banner-image.jpg",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\left-banner-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\loading.gif",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\loading.gif",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/loading.gif",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/logo.png",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo-white@2x.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\logo-white@2x.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/logo-white@2x.png",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\logo-white@2x.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/men-01.jpg",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\men-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/men-02.jpg",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\men-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\men-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/men-03.jpg",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\men-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\next.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\next.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/next.png",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\next.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\prev.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\prev.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/prev.png",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\products-page-heading.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\products-page-heading.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/products-page-heading.jpg",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\products-page-heading.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/service-01.jpg",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/service-02.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\service-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/service-03.jpg",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\service-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/single-product-01.jpg",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\single-product-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\single-product-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/single-product-02.jpg",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\single-product-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/team-member-01.jpg",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team-member-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/team-member-02.jpg",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team-member-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\team-member-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/team-member-03.jpg",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\team-member-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\white-logo.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\white-logo.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/white-logo.png",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\white-logo.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-01.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-01.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/women-01.jpg",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\women-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-02.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-02.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/women-02.jpg",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\women-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-03.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\images\\women-03.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/images/women-03.jpg",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\women-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\accordions.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/js/accordions.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\accordions.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\custom.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/js/custom.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\datepicker.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\datepicker.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/js/datepicker.js",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\imgfix.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\imgfix.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "assets/js/imgfix.min.js",
       "AssetKind": "All",
@@ -1271,200 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\imgfix.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\isotope.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\all.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/isotope.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\isotope.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\jquery.counterup.min.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/jquery.counterup.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.counterup.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\jquery-2.1.0.min.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/jquery-2.1.0.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-2.1.0.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\lightbox.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/lightbox.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\lightbox.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\owl-carousel.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/owl-carousel.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\popper.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/popper.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\popper.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\quantity.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/quantity.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\quantity.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\scrollreveal.min.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/scrollreveal.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\scrollreveal.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\slick.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/slick.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\slick.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\assets\\js\\waypoints.min.js",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
-      "BasePath": "_content/E-Commerce",
-      "RelativePath": "assets/js/waypoints.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\js\\waypoints.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\all.min.css",
-      "SourceId": "E-Commerce",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/all.min.css",
       "AssetKind": "All",
@@ -1480,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\all.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\fontawesome.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1499,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\login_SignUp.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/login_SignUp.css",
       "AssetKind": "All",
@@ -1518,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login_SignUp.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\site.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1537,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\styles.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -1556,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\css\\styles.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1575,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-brands-400.woff2",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1594,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1613,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-regular-400.woff2",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1632,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1651,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-solid-900.woff2",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1670,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -1689,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\css\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "css/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -1708,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\css\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\favicon.ico",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1727,10 +1537,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\058cd03a-3949-4e36-900c-a1a29a627145_blue-2.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/058cd03a-3949-4e36-900c-a1a29a627145_blue-2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\058cd03a-3949-4e36-900c-a1a29a627145_blue-2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\05fda92e-3534-4639-9c81-5073ddafc3e0_setup-gear-6.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/05fda92e-3534-4639-9c81-5073ddafc3e0_setup-gear-6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\05fda92e-3534-4639-9c81-5073ddafc3e0_setup-gear-6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg",
       "AssetKind": "All",
@@ -1746,10 +1594,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\151df094-75de-4a38-83df-8e415e86cf7b_setup-gear-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\1547e012-53fb-407a-8d5a-8d3caf2bf432_sneaker-8.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/1547e012-53fb-407a-8d5a-8d3caf2bf432_sneaker-8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\1547e012-53fb-407a-8d5a-8d3caf2bf432_sneaker-8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg",
       "AssetKind": "All",
@@ -1765,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\17fc6870-b672-4cb4-90a3-9386216b5124_white-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg",
       "AssetKind": "All",
@@ -1784,10 +1651,48 @@
       "OriginalItemSpec": "wwwroot\\Images\\27d2cbab-373e-4368-84e3-76bd39399bdd_stroller-baby-brown.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\28d11311-fc13-43c8-b349-5a2357cc4f32_setup-gear-15.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/28d11311-fc13-43c8-b349-5a2357cc4f32_setup-gear-15.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\28d11311-fc13-43c8-b349-5a2357cc4f32_setup-gear-15.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\54b1e4b9-6829-4c61-9d72-895171dfbc57_sneaker-5.png",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/54b1e4b9-6829-4c61-9d72-895171dfbc57_sneaker-5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\54b1e4b9-6829-4c61-9d72-895171dfbc57_sneaker-5.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg",
       "AssetKind": "All",
@@ -1803,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\55843a4e-3fd0-4716-8a29-47b050a7aedb_t-shirt-8.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png",
       "AssetKind": "All",
@@ -1822,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\5a050d9f-16bf-492e-8fe3-dcc6f545e7e6_sneaker-4.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg",
       "AssetKind": "All",
@@ -1841,10 +1746,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\5cb2e64c-d829-41d4-8077-7ccb7a2eb9f5_t-shirt-16.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\626f99e3-ae21-4da9-967e-8d8f7c47dd05_sneaker-9.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/626f99e3-ae21-4da9-967e-8d8f7c47dd05_sneaker-9.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\626f99e3-ae21-4da9-967e-8d8f7c47dd05_sneaker-9.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg",
       "AssetKind": "All",
@@ -1860,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\643f7093-7edd-41a4-a271-150096aa2e33_black-22.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg",
       "AssetKind": "All",
@@ -1879,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\6d0736d5-be34-473f-a0c6-57358a8a8607_pr10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg",
       "AssetKind": "All",
@@ -1898,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\72292a6a-bcd9-4115-88c3-5d7022a0bd81_stroller-baby-darkblue.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg",
       "AssetKind": "All",
@@ -1917,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\7414a6a2-ab37-4309-b2b1-3e5d9c31a7d3_pod-store-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg",
       "AssetKind": "All",
@@ -1936,10 +1860,48 @@
       "OriginalItemSpec": "wwwroot\\Images\\7ab3d30f-f4a9-489c-8b25-bb661f501f6d_taupe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\825dff96-4993-454d-b886-84ef5da0a3a1_headphone-12.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/825dff96-4993-454d-b886-84ef5da0a3a1_headphone-12.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\825dff96-4993-454d-b886-84ef5da0a3a1_headphone-12.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\84fb8d49-544d-4c83-9951-a40b84ed3693_setup-gear-17.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/84fb8d49-544d-4c83-9951-a40b84ed3693_setup-gear-17.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\84fb8d49-544d-4c83-9951-a40b84ed3693_setup-gear-17.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png",
       "AssetKind": "All",
@@ -1955,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\87c787cc-74ff-43b8-bf1d-cc289b459414_electronic-15.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png",
       "AssetKind": "All",
@@ -1974,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\8a45ff85-9dd7-4293-a7c4-e3f3fb33ac56_sneaker-1.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg",
       "AssetKind": "All",
@@ -1993,10 +1955,48 @@
       "OriginalItemSpec": "wwwroot\\Images\\8af277bb-1d0f-439f-8985-19a61b2a874f_setup-gear-12.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\8f49ad0a-5db4-4a34-9e15-2247320a3672_phonecase-6.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/8f49ad0a-5db4-4a34-9e15-2247320a3672_phonecase-6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\8f49ad0a-5db4-4a34-9e15-2247320a3672_phonecase-6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\99f8b8a7-506d-425c-a334-14256c4a9ba7_stroller-baby-brown.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/99f8b8a7-506d-425c-a334-14256c4a9ba7_stroller-baby-brown.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\99f8b8a7-506d-425c-a334-14256c4a9ba7_stroller-baby-brown.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg",
       "AssetKind": "All",
@@ -2012,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\9c221869-7dd0-475b-9a31-181daadcd0bf_setup-gear-15.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a1.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a1.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/a1.png",
       "AssetKind": "All",
@@ -2031,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\a1.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg",
       "AssetKind": "All",
@@ -2050,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\a7de4b88-d6b3-4ff0-bf1e-a48ece62039a_black-18.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\About Us\\2672335.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\About Us\\2672335.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/About Us/2672335.jpg",
       "AssetKind": "All",
@@ -2069,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\About Us\\2672335.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg",
       "AssetKind": "All",
@@ -2088,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\b11d0835-b5c8-4a5b-89ab-8307a4da9ec3_setup-gear-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png",
       "AssetKind": "All",
@@ -2107,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\b8137e91-dc29-457f-99c0-f774651ae34c_ziad Ibrahim Mohammed.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg",
       "AssetKind": "All",
@@ -2126,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\bb3fad61-e952-45c0-89df-d7b303c91b1b_t-shirt-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\button.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\button.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/button.png",
       "AssetKind": "All",
@@ -2145,10 +2145,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\button.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\c6d506b4-a248-42d0-abb3-d3a01cb74e8b_setup-gear-16.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/c6d506b4-a248-42d0-abb3-d3a01cb74e8b_setup-gear-16.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\c6d506b4-a248-42d0-abb3-d3a01cb74e8b_setup-gear-16.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg",
       "AssetKind": "All",
@@ -2164,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ce175d43-4800-4181-a511-1b32f196291f_white-22.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg",
       "AssetKind": "All",
@@ -2183,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\dacabb91-5e7a-4aad-aaa4-e5da50a4ab34_setup-gear-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg",
       "AssetKind": "All",
@@ -2202,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\e5f6f4ad-9542-45c0-85a0-598a5b8cbcbe_lookbook-item-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg",
       "AssetKind": "All",
@@ -2221,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ea916a94-1d14-464c-8db1-1e6caf435bbf_white-14.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg",
       "AssetKind": "All",
@@ -2240,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f13bd041-e3a3-4459-97f5-701eabfbf6ce_t-shirt-7.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f1.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f1.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f1.png",
       "AssetKind": "All",
@@ -2259,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f1.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f2.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f2.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f2.png",
       "AssetKind": "All",
@@ -2278,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f2.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f3.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f3.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f3.png",
       "AssetKind": "All",
@@ -2297,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f3.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f4.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f4.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f4.png",
       "AssetKind": "All",
@@ -2316,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f4.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f5.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f5.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f5.png",
       "AssetKind": "All",
@@ -2335,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f5.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f6.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\f6.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/f6.png",
       "AssetKind": "All",
@@ -2354,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\f6.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\pants (1)-Photoroom.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\pants (1)-Photoroom.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/pants (1)-Photoroom.png",
       "AssetKind": "All",
@@ -2373,10 +2392,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\pants (1)-Photoroom.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\sneaker-3-Photoroom.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\Screenshot 2024-12-15 145208.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/features/Screenshot 2024-12-15 145208.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\features\\Screenshot 2024-12-15 145208.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\sneaker-3-Photoroom.png",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/sneaker-3-Photoroom.png",
       "AssetKind": "All",
@@ -2392,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\sneaker-3-Photoroom.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\t-shirt-10-Photoroom.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\features\\t-shirt-10-Photoroom.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/features/t-shirt-10-Photoroom.png",
       "AssetKind": "All",
@@ -2411,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\features\\t-shirt-10-Photoroom.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero2.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero2.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/hero2.jpg",
       "AssetKind": "All",
@@ -2430,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hero2.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero4.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\hero4.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/hero4.png",
       "AssetKind": "All",
@@ -2449,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hero4.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\logo.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\logo.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/logo.png",
       "AssetKind": "All",
@@ -2468,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\noimage.jpeg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\noimage.jpeg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/noimage.jpeg",
       "AssetKind": "All",
@@ -2487,10 +2525,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\noimage.jpeg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pants (1).jpeg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\original-9a72ce217ec05cbb67cb462801094776.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/original-9a72ce217ec05cbb67cb462801094776.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\original-9a72ce217ec05cbb67cb462801094776.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pants (1).jpeg",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/pants (1).jpeg",
       "AssetKind": "All",
@@ -2506,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pants (1).jpeg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\app.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\app.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/pay/app.jpg",
       "AssetKind": "All",
@@ -2525,10 +2582,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\pay\\app.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\pay.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\Fashion Rhythm Promo (After Effects Template)★ AE Templates - AE templates (720p, h264, youtube).mp4",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "BasePath": "_content/E-Commerce",
+      "RelativePath": "Images/pay/Fashion Rhythm Promo (After Effects Template)★ AE Templates - AE templates (720p, h264, youtube).mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\pay\\Fashion Rhythm Promo (After Effects Template)★ AE Templates - AE templates (720p, h264, youtube).mp4"
+    },
+    {
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\pay.png",
+      "SourceId": "E-Commerce",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/pay/pay.png",
       "AssetKind": "All",
@@ -2544,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pay\\pay.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\play.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\pay\\play.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/pay/play.jpg",
       "AssetKind": "All",
@@ -2563,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\pay\\play.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1).jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1).jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/RequiredOne (1).jpg",
       "AssetKind": "All",
@@ -2582,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\RequiredOne (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1)-Photoroom.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\RequiredOne (1)-Photoroom.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/RequiredOne (1)-Photoroom.png",
       "AssetKind": "All",
@@ -2601,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\RequiredOne (1)-Photoroom.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-1.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-1.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/sneaker-1.png",
       "AssetKind": "All",
@@ -2620,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\sneaker-1.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-5.png",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sneaker-5.png",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/sneaker-5.png",
       "AssetKind": "All",
@@ -2639,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\sneaker-5.png"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sports-clothing-3.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\sports-clothing-3.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/sports-clothing-3.jpg",
       "AssetKind": "All",
@@ -2658,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\sports-clothing-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\taupe-1.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\taupe-1.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/taupe-1.jpg",
       "AssetKind": "All",
@@ -2677,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\taupe-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/t-shirt.jpg",
       "AssetKind": "All",
@@ -2696,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\t-shirt.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt-10.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\t-shirt-10.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/t-shirt-10.jpg",
       "AssetKind": "All",
@@ -2715,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\t-shirt-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-10.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-10.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/white-10.jpg",
       "AssetKind": "All",
@@ -2734,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\white-10.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-15.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-15.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/white-15.jpg",
       "AssetKind": "All",
@@ -2753,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\white-15.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-16.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-16.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/white-16.jpg",
       "AssetKind": "All",
@@ -2772,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\white-16.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-21.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-21.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/white-21.jpg",
       "AssetKind": "All",
@@ -2791,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\white-21.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-22.jpg",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\Images\\white-22.jpg",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "Images/white-22.jpg",
       "AssetKind": "All",
@@ -2810,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\white-22.jpg"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\js\\site.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2829,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2848,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2867,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2886,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2905,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2924,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2943,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2962,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2981,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3000,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3019,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3038,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3057,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3076,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3095,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3114,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -3133,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3152,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3171,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3190,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3209,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3228,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3247,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3266,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3285,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3304,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3323,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3342,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3361,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3380,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3399,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3418,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3437,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3456,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3475,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3494,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3513,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3532,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3551,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3570,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3589,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3608,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3627,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3646,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3665,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3684,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3703,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3722,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3741,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3760,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3779,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3798,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3817,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3836,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3855,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3874,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3893,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "E-Commerce",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\DELL\\source\\repos\\E-Commerce\\E-Commerce\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\DELL\\Documents\\GitHub\\E-Commerce\\E-Commerce\\E-Commerce\\wwwroot\\",
       "BasePath": "_content/E-Commerce",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

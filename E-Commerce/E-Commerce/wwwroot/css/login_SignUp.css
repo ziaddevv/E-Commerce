@@ -140,8 +140,7 @@ form .signup-link {
             text-decoration: underline;
         }
 
-
-/* For the textarea field */
+ 
 .wrapper form .field.textarea {
     height: auto;
     position: relative;

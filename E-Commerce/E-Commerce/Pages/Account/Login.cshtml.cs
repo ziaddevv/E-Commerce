@@ -25,7 +25,7 @@ namespace E_Commerce.Pages.Account
 
         public IActionResult OnPost()
         {
-            var user = _Context.Users.FirstOrDefault(u => u.Email == Email && u.Password == Password);
+            var user = _Context.Users.FirstOrDefault(u => u.Email == Email && u.Password == Password);//search for user email and password
 
 
 

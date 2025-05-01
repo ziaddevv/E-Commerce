@@ -1,39 +1,45 @@
 ﻿@page
 @model E_Commerce.Pages.Products.CartModel
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
 
-<div class="container mt-5">
-    <h1>Your Cart</h1>
+<h1>Shopping Cart</h1>
 
-    @if (ViewData["Error"] != null)
-    {
-        <p class="text-danger">@ViewData["Error"]</p>
-    }
-    else if (Model.CartItems.Count == 0)
-    {
-        <p>Your cart is empty. <a href="/Products/Content">Shop now</a>!</p>
-    }
-    else
-    {
-        <table class="table">
-            <thead>
+@if (ViewData["Error"] != null)
+{
+    <div class="alert alert-danger">@ViewData["Error"]</div>
+}
+else if (Model.CartItems == null || !Model.CartItems.Any())
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.CartItems)
+            {
                 <tr>
-                    <th>Product</th>
-                    <th>Price</th>
-                    <th>Quantity</th>
-                    <th>Total</th>
+                    <td>@item.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@(item.Price * item.Quantity)</td>
+                    <td>
+                        <form method="post" asp-page-handler="Delete">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-danger">-</button>
+                        </form>
+                    </td>
                 </tr>
-            </thead>
-            <tbody>
-                @foreach (var item in Model.CartItems)
-                {
-                    <tr>
-                        <td>@item.Name</td>
-                        <td>@item.Price</td>
-                        <td>@item.Quantity</td>
-                        <td>@(item.Price * item.Quantity)</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    }
-</div>
+            }
+        </tbody>
+    </table>
+}
