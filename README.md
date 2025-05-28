@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Web Application
+#  E-Commerce Web Application
 
 A full-stack E-Commerce web application developed using **ASP.NET**, **C#**, **SQL Server**, and **Razor Pages**. This platform provides core online shopping functionality, including user authentication, product management, and a secure checkout system.
 
