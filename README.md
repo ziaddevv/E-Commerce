@@ -1,27 +1,24 @@
-#  E-Commerce Web Application
+# E-Commerce Web Application
 
-A full-stack E-Commerce web application developed using **ASP.NET**, **C#**, **SQL Server**, and **Razor Pages**. This platform provides core online shopping functionality, including user authentication, product management, and a secure checkout system.
+A full-stack E-Commerce web application built with **ASP.NET Core**, **C#**, **SQL Server**, and **Razor Pages**. The platform provides secure user authentication, product management, shopping cart functionality, and a robust checkout system.
 
-## 🚀 Features
+## Features
 
-- 🔐 **User Authentication**
+- **User Authentication & Authorization**
   - Register, login, and role-based access control
-- 📦 **Product Management**
+- **Product Management**
   - Admin dashboard to add, update, or delete products
   - Display product listings to all users
-- 🛒 **Shopping Cart & Checkout**
+- **Shopping Cart & Checkout**
   - Add/remove items from cart
-  - View cart summary and complete simulated checkout
-- 🏗️ **MVC Architecture**
-  - Clean separation of concerns for better maintainability and scalability
+  - View cart summary and complete checkout
+- **MVC Architecture**
+  - Clean separation of concerns for maintainability and scalability
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** Razor Pages, HTML, CSS, Bootstrap
 - **Backend:** ASP.NET Core, C#
 - **Database:** SQL Server
-- **Authentication:** ASP.NET Identity
+- **Authentication:** ASP.NET Identity, JWT, Google OAuth
 - **IDE:** Visual Studio
-
-## 📂 Project Structure
-
